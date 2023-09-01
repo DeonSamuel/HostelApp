@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Bech De</string>
+    <!--    <string name="action_settings">Settings</string>-->
+    <!--    &lt;!&ndash; Strings used for fragments for navigation &ndash;&gt;-->
+    <!--    <string name="first_fragment_label">First Fragment</string>-->
+    <!--    <string name="second_fragment_label">Second Fragment</string>-->
+    <!--    <string name="next">Next</string>-->
+    <!--    <string name="previous">Previous</string>-->
+
+    <string name="first_slide">\n\nBuy Your Products</string>
+    <string name="second_slide">\n\nSell Your Products</string>
+    <string name="third_slide">\n\nLatest News</string>
+
+    <string name="slide_1">
+
+       \n\n Easy to buy products from fellow hostel mates.\n\n
+
+        Cheap rates.\n\n
+
+        Hassle free process.\n\n
+
+    </string>
+    <string name="slide_2">
+
+       \n\n Sell without documents.       \n\n
+
+        No middleman.       \n\n
+
+        Best prices.       \n\n
+    </string>
+    <string name="slide_3">
+
+            \n\n   Stay Up-to-date with all the news.       \n\n
+
+        Platform for Queries and needs.       \n\n
+
+        Create Friendly Environment.       \n\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_pass">Enter Your Password</string>
+    <string name="already_registered">Already Registered ? Sign In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_registered">Not Registered Yet ? Sign Up</string>
+    <string name="profile">My Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="username">Enter Your Name</string>
+    <string name="save">Save</string>
+    <string name="add_post">Add Post</string>
+    <string name="enter_caption">Write Caption here ....</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="write_Comment">Write Your Comment</string>
+</resources>
