@@ -28,11 +28,6 @@ public class OnBoardingActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_on_boarding);
 
-//        hide status bar
-//        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
-//        hide toolbar
-//        getSupportActionBar().hide();
-
         viewPager = findViewById(R.id.slider);
         dotsLayout = findViewById(R.id.dots);
 
